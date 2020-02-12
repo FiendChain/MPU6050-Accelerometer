@@ -5,4 +5,4 @@ Visualiser is built with pyqtgraph.
 ## Gallery
 #### Telemetry from sensor
 Complementary filter used for roll and pitch data, using sensor fusion on accelerometer and gyroscope data.
-![alt text](docs/full_readings.png "Full readings")
+![alt text](docs/full_readings.PNG "Full readings")
